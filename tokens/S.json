@@ -1,0 +1,3014 @@
+{
+  "S": {
+    "Color": {
+      "Text": {
+        "Default": {
+          "Main": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Supporting": {
+            "value": "{P.Color.Neutral.900}",
+            "type": "color"
+          },
+          "Body": {
+            "value": "{P.Color.Neutral.800}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.600}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          },
+          "Impact": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          }
+        },
+        "Inverse": {
+          "Main": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Supporting": {
+            "value": "{P.Color.Neutral.100}",
+            "type": "color"
+          },
+          "Body": {
+            "value": "{P.Color.Neutral.200}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.400}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Secondary.1}",
+            "type": "color"
+          },
+          "Impact": {
+            "value": "{P.Color.Secondary.1}",
+            "type": "color"
+          }
+        }
+      },
+      "Background": {
+        "Default": {
+          "Main": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.100}",
+            "type": "color"
+          },
+          "Strong": {
+            "value": "{P.Color.Neutral.300}",
+            "type": "color"
+          },
+          "Panel": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Panel-Hover": {
+            "value": "{P.Color.Neutral.200}",
+            "type": "color"
+          },
+          "Muted": {
+            "value": "{P.Color.Opacity.Default.10}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.800}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          },
+          "Impact": {
+            "value": "linear-gradient(0deg, rgba($P.Color.Primary.2, 1) 0%, rgba($P.Color.Tints.Primary-2.200, 1) 100%)",
+            "type": "color"
+          }
+        },
+        "Inverse": {
+          "Main": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.900}",
+            "type": "color"
+          },
+          "Strong": {
+            "value": "{P.Color.Neutral.600}",
+            "type": "color"
+          },
+          "Panel": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Panel-Hover": {
+            "value": "{P.Color.Neutral.800}",
+            "type": "color"
+          },
+          "Muted": {
+            "value": "{P.Color.Opacity.Inverse.10}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          },
+          "Impact": {
+            "value": "linear-gradient(0deg, rgba($P.Color.Primary.2, 1) 0%, rgba($P.Color.Tints.Primary-2.200, 1) 100%)",
+            "type": "color"
+          }
+        },
+        "HoldingColour": {
+          "FullyTransparent": {
+            "value": "rgba(0,0,0,0)",
+            "type": "color",
+            "description": "Transparent background"
+          }
+        }
+      },
+      "Fill": {
+        "Default": {
+          "Main": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Strong": {
+            "value": "{P.Color.Neutral.800}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.400}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          },
+          "Impact": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          }
+        },
+        "Inverse": {
+          "Main": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Strong": {
+            "value": "{P.Color.Neutral.200}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.600}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.800}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Secondary.1}",
+            "type": "color"
+          },
+          "Impact": {
+            "value": "{P.Color.Secondary.1}",
+            "type": "color"
+          }
+        }
+      },
+      "Border": {
+        "Default": {
+          "Main": {
+            "value": "{P.Color.Neutral.600}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.400}",
+            "type": "color"
+          },
+          "Muted": {
+            "value": "{P.Color.Opacity.Default.10}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Primary.1}",
+            "type": "color"
+          }
+        },
+        "Inverse": {
+          "Main": {
+            "value": "{P.Color.Neutral.400}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.600}",
+            "type": "color"
+          },
+          "Muted": {
+            "value": "{P.Color.Opacity.Inverse.10}",
+            "type": "color"
+          },
+          "Contrast": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Emphasis": {
+            "value": "{P.Color.Secondary.1}",
+            "type": "color"
+          }
+        },
+        "HoldingColour": {
+          "FullyTransparent": {
+            "value": "rgba(0,0,0,0)",
+            "type": "color",
+            "description": "Transparent background"
+          }
+        }
+      },
+      "Interaction": {
+        "Default": {
+          "Primary": {
+            "Label": {
+              "Enabled": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Label colour for brand-coloured interactive elements on dark backgrounds. Typically white text on Primary.1 backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Hover state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Active/pressed state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Selected state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state label colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon": {
+              "Enabled": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Fill colour for brand-coloured interactive elements on dark backgrounds. Used for icons, checkmarks within brand-coloured components."
+              },
+              "Hover": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Hover state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Active/pressed state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Selected state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state fill colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Background": {
+              "Enabled": {
+                "value": "{P.Color.Primary.1}",
+                "type": "color",
+                "description": "Baseline conatiner background for brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Shades.Primary-1.600}",
+                "type": "color",
+                "description": "Hover state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{P.Color.Shades.Primary-1.700}",
+                "type": "color",
+                "description": "Active/pressed state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{P.Color.Primary.1}",
+                "type": "color",
+                "description": "Selected state conatiner background for brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Container Border colour for primary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state container border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state container border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state container border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state container border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Baseline background for primary level brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state background for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state background for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state background for primary level brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state background for primary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Contents Border colour for primary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state contents border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state contents border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents border colour for primary level brand-coloured interactive elements on dark backgrounds."
+              }
+            }
+          },
+          "Secondary": {
+            "Label": {
+              "Enabled": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Label colour for brand-coloured interactive elements on dark backgrounds. Typically white text on Primary.2 backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Hover state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Active/pressed state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Text.Inverse.Main}",
+                "type": "color",
+                "description": "Selected state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state label colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon": {
+              "Enabled": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Fill colour for brand-coloured interactive elements on dark backgrounds. Used for icons, checkmarks within brand-coloured components."
+              },
+              "Hover": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Hover state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Active/pressed state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Fill.Inverse.Main}",
+                "type": "color",
+                "description": "Selected state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state fill colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Background": {
+              "Enabled": {
+                "value": "{P.Color.Primary.2}",
+                "type": "color",
+                "description": "Baseline conatiner background for brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Shades.Primary-2.600}",
+                "type": "color",
+                "description": "Hover state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{P.Color.Shades.Primary-2.700}",
+                "type": "color",
+                "description": "Active/pressed state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{P.Color.Primary.2}",
+                "type": "color",
+                "description": "Selected state conatiner background for brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Container Border colour for secondary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Baseline background for secondary level brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state background for secondary level brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Contents Border colour for secondary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            }
+          },
+          "Tertiary": {
+            "Label": {
+              "Enabled": {
+                "value": "{S.Color.Text.Default.Emphasis}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Text.Default.Emphasis}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Text.Default.Emphasis}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color"
+              }
+            },
+            "Icon": {
+              "Enabled": {
+                "value": "{S.Color.Fill.Default.Emphasis}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Fill.Default.Emphasis}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Fill.Default.Emphasis}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color"
+              }
+            },
+            "Icon-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              }
+            },
+            "Icon-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              }
+            },
+            "Container-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Border": {
+              "Enabled": {
+                "value": "{P.Color.Primary.1}",
+                "type": "color",
+                "description": "Enabled/default state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Shades.Primary-1.600}",
+                "type": "color",
+                "description": "Hover state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{P.Color.Shades.Primary-1.700}",
+                "type": "color",
+                "description": "Active/Pressed state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Default.30}",
+                "type": "color",
+                "description": "Disabled state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Opacity.Default.10}",
+                "type": "color",
+                "description": "Hover state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            }
+          },
+          "Link": {
+            "Enabled": {
+              "value": "{P.Color.Primary.1}",
+              "type": "color",
+              "description": "Baseline colour for brand-coloured text links and text-based actions on dark backgrounds. Used for inline links, tertiary button labels, category links."
+            },
+            "Hover": {
+              "value": "{P.Color.Shades.Primary-1.600}",
+              "type": "color",
+              "description": "Hover state colour for brand-coloured text links on dark backgrounds."
+            },
+            "Active": {
+              "value": "{P.Color.Shades.Primary-1.600}",
+              "type": "color",
+              "description": "Active/pressed state colour for brand-coloured text links on dark backgrounds."
+            }
+          }
+        },
+        "Inverse": {
+          "Primary": {
+            "Label": {
+              "Enabled": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Label colour for brand-coloured interactive elements on dark backgrounds. Typically white text on Secondary.1 backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Hover state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Active/pressed state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Selected state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state label colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon": {
+              "Enabled": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Fill colour for brand-coloured interactive elements on dark backgrounds. Used for icons, checkmarks within brand-coloured components."
+              },
+              "Hover": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Hover state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Active/pressed state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Selected state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state fill colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Background": {
+              "Enabled": {
+                "value": "{P.Color.Secondary.1}",
+                "type": "color",
+                "description": "Baseline conatiner background for brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Shades.Secondary-1.600}",
+                "type": "color",
+                "description": "Hover state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{P.Color.Shades.Secondary-1.700}",
+                "type": "color",
+                "description": "Active/pressed state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{P.Color.Secondary.1}",
+                "type": "color",
+                "description": "Selected state conatiner background for brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Container Border colour for secondary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Baseline background for secondary level brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state background for secondary level brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Contents Border colour for secondary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            }
+          },
+          "Secondary": {
+            "Label": {
+              "Enabled": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Label colour for brand-coloured interactive elements on dark backgrounds. Typically white text on Secondary.1 backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Hover state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Active/pressed state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Text.Default.Main}",
+                "type": "color",
+                "description": "Selected state label colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state label colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon": {
+              "Enabled": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Fill colour for brand-coloured interactive elements on dark backgrounds. Used for icons, checkmarks within brand-coloured components."
+              },
+              "Hover": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Hover state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Active/pressed state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Fill.Default.Main}",
+                "type": "color",
+                "description": "Selected state fill colour for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state fill colour for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Icon-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state icon container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Background": {
+              "Enabled": {
+                "value": "{P.Color.Neutral.White}",
+                "type": "color",
+                "description": "Baseline conatiner background for brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Neutral.200}",
+                "type": "color",
+                "description": "Hover state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{P.Color.Neutral.300}",
+                "type": "color",
+                "description": "Active/pressed state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{P.Color.Neutral.White}",
+                "type": "color",
+                "description": "Selected state conatiner background for brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state conatiner background for brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Container Border colour for secondary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state container border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Baseline background for secondary level brand-coloured interactive elements on dark backgrounds. Used for primary button fills, checked checkbox backgrounds, active toggle backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state background for secondary level brand-coloured interactive elements on dark backgrounds. Typically matches Enabled unless client requires distinct selected treatment."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state background for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Contents Border colour for secondary level brand-coloured interactive elements on dark backgrounds. Used for focused states, brand-accented borders."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Selected": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Selected state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents border colour for secondary level brand-coloured interactive elements on dark backgrounds."
+              }
+            }
+          },
+          "Tertiary": {
+            "Label": {
+              "Enabled": {
+                "value": "{S.Color.Text.Inverse.Emphasis}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Text.Inverse.Emphasis}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Text.Inverse.Emphasis}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color"
+              }
+            },
+            "Icon": {
+              "Enabled": {
+                "value": "{S.Color.Fill.Inverse.Emphasis}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Fill.Inverse.Emphasis}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Fill.Inverse.Emphasis}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color"
+              }
+            },
+            "Icon-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color"
+              }
+            },
+            "Icon-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color"
+              }
+            },
+            "Container-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state container background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Container-Border": {
+              "Enabled": {
+                "value": "{P.Color.Secondary.1}",
+                "type": "color",
+                "description": "Enabled/default state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Shades.Secondary-1.600}",
+                "type": "color",
+                "description": "Hover state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{P.Color.Shades.Secondary-1.700}",
+                "type": "color",
+                "description": "Active/Pressed state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{P.Color.Opacity.Inverse.40}",
+                "type": "color",
+                "description": "Disabled state container border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Background": {
+              "Enabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{P.Color.Opacity.Default.10}",
+                "type": "color",
+                "description": "Hover state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents background colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            },
+            "Contents-Border": {
+              "Enabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Enabled/default state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Hover": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Hover state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Active": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Active/pressed state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              },
+              "Disabled": {
+                "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                "type": "color",
+                "description": "Disabled state contents border colour for tertiary level brand-coloured interactive elements on dark backgrounds."
+              }
+            }
+          },
+          "Link": {
+            "Enabled": {
+              "value": "{P.Color.Secondary.1}",
+              "type": "color",
+              "description": "Baseline colour for brand-coloured text links and text-based actions on dark backgrounds. Used for inline links, tertiary button labels, category links."
+            },
+            "Hover": {
+              "value": "{P.Color.Shades.Secondary-1.600}",
+              "type": "color",
+              "description": "Hover state colour for brand-coloured text links on dark backgrounds."
+            },
+            "Active": {
+              "value": "{P.Color.Shades.Secondary-1.600}",
+              "type": "color",
+              "description": "Active/pressed state colour for brand-coloured text links on dark backgrounds."
+            }
+          }
+        },
+        "Neutral": {
+          "Default": {
+            "Primary": {
+              "Label": {
+                "Enabled": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Default.30}",
+                  "type": "color"
+                }
+              },
+              "Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.Default.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.Default.Subtle}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.Default.Subtle}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.Default.Subtle}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.Default.Main}",
+                  "type": "color"
+                }
+              },
+              "Icon": {
+                "Enabled": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Default.30}",
+                  "type": "color"
+                }
+              },
+              "Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.Default.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.Default.Subtle}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.Default.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.Default.Emphasis}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Default.30}",
+                  "type": "color"
+                }
+              },
+              "Icon-Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              },
+              "Icon-Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              }
+            },
+            "Secondary": {
+              "Label": {
+                "Enabled": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Text.Default.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Default.30}",
+                  "type": "color"
+                }
+              },
+              "Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.Default.Subtle}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.Default.Strong}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.Default.Subtle}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              },
+              "Icon": {
+                "Enabled": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Fill.Default.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Default.30}",
+                  "type": "color"
+                }
+              },
+              "Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.Default.Contrast}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.Default.Contrast}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.Default.Contrast}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.Default.Contrast}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Default.30}",
+                  "type": "color"
+                }
+              },
+              "Icon-Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              },
+              "Icon-Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              }
+            }
+          },
+          "Inverse": {
+            "Primary": {
+              "Label": {
+                "Enabled": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Inverse.40}",
+                  "type": "color"
+                }
+              },
+              "Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.Inverse.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.Inverse.Subtle}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.Inverse.Subtle}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.Inverse.Subtle}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.Inverse.Main}",
+                  "type": "color"
+                }
+              },
+              "Icon": {
+                "Enabled": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Inverse.40}",
+                  "type": "color"
+                }
+              },
+              "Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.Inverse.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.Inverse.Subtle}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.Inverse.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.Inverse.Emphasis}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Inverse.30}",
+                  "type": "color"
+                }
+              },
+              "Icon-Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              },
+              "Icon-Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              }
+            },
+            "Secondary": {
+              "Label": {
+                "Enabled": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Text.Inverse.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Inverse.40}",
+                  "type": "color"
+                }
+              },
+              "Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.Inverse.Subtle}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.Inverse.Strong}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.Inverse.Subtle}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              },
+              "Icon": {
+                "Enabled": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Fill.Inverse.Main}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Inverse.40}",
+                  "type": "color"
+                }
+              },
+              "Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.Inverse.Contrast}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.Inverse.Contrast}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.Inverse.Contrast}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.Inverse.Contrast}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{P.Color.Opacity.Inverse.40}",
+                  "type": "color"
+                }
+              },
+              "Icon-Background": {
+                "Enabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              },
+              "Icon-Border": {
+                "Enabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Hover": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Active": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Selected": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                },
+                "Disabled": {
+                  "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+                  "type": "color"
+                }
+              }
+            }
+          }
+        }
+      },
+      "System": {
+        "Default": {
+          "Text": {
+            "Warning": {
+              "value": "{P.Color.System.Default.Warning}",
+              "type": "color"
+            },
+            "Error": {
+              "value": "{P.Color.System.Default.Error}",
+              "type": "color"
+            },
+            "Success": {
+              "value": "{P.Color.System.Default.Success}",
+              "type": "color"
+            },
+            "Info": {
+              "value": "{P.Color.System.Default.Info}",
+              "type": "color"
+            }
+          },
+          "Fill": {
+            "Warning": {
+              "value": "{P.Color.System.Default.Warning}",
+              "type": "color"
+            },
+            "Error": {
+              "value": "{P.Color.System.Default.Error}",
+              "type": "color"
+            },
+            "Success": {
+              "value": "{P.Color.System.Default.Success}",
+              "type": "color"
+            },
+            "Info": {
+              "value": "{P.Color.System.Default.Info}",
+              "type": "color"
+            },
+            "Notification": {
+              "value": "{P.Color.System.Default.Error}",
+              "type": "color"
+            }
+          }
+        },
+        "Inverse": {
+          "Text": {
+            "Warning": {
+              "value": "{P.Color.System.Inverse.Warning}",
+              "type": "color"
+            },
+            "Error": {
+              "value": "{P.Color.System.Inverse.Error}",
+              "type": "color"
+            },
+            "Success": {
+              "value": "{P.Color.System.Inverse.Success}",
+              "type": "color"
+            },
+            "Info": {
+              "value": "{P.Color.System.Inverse.Info}",
+              "type": "color"
+            }
+          },
+          "Fill": {
+            "Warning": {
+              "value": "{P.Color.System.Inverse.Warning}",
+              "type": "color"
+            },
+            "Error": {
+              "value": "{P.Color.System.Inverse.Error}",
+              "type": "color"
+            },
+            "Success": {
+              "value": "{P.Color.System.Inverse.Success}",
+              "type": "color"
+            },
+            "Info": {
+              "value": "{P.Color.System.Inverse.Info}",
+              "type": "color"
+            },
+            "Notification": {
+              "value": "{P.Color.System.Inverse.Error}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Page": {
+        "Default": {
+          "Main": {
+            "value": "{P.Color.Neutral.White}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.200}",
+            "type": "color"
+          }
+        },
+        "Inverse": {
+          "Main": {
+            "value": "{P.Color.Neutral.Black}",
+            "type": "color"
+          },
+          "Subtle": {
+            "value": "{P.Color.Neutral.800}",
+            "type": "color"
+          }
+        },
+        "Brand": {
+          "Primary": {
+            "value": "{P.Color.Primary.2}",
+            "type": "color"
+          },
+          "Secondary": {
+            "value": "{P.Color.Shades.Primary-2.600}",
+            "type": "color"
+          },
+          "Tertiary": {
+            "value": "{P.Color.Tints.Primary-2.400}",
+            "type": "color"
+          }
+        }
+      },
+      "Focus": {
+        "Default": {
+          "value": "{P.Color.Primary.1}",
+          "type": "color"
+        },
+        "Inverse": {
+          "value": "{P.Color.Secondary.1}",
+          "type": "color"
+        }
+      },
+      "Overlay": {
+        "Primary": {
+          "value": "linear-gradient(180deg, rgba($P.Color.Neutral.Black, 0) 0%, rgba($P.Color.Neutral.Black, 1) 100%)",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "linear-gradient(270deg, rgba($P.Color.Neutral.Black, 0) 0%, rgba($P.Color.Neutral.Black, 1) 100%)",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "linear-gradient(0deg, rgba($P.Color.Neutral.Black, 0) 0%, rgba($P.Color.Neutral.Black, 1) 100%)",
+          "type": "color"
+        },
+        "Radial": {
+          "value": "radial-gradient(100% 100% at 50% 20%, rgba($P.Color.Neutral.Black, 0) 0%, rgba($P.Color.Neutral.Black, 0.9) 100%)",
+          "type": "color"
+        },
+        "ModalBackground": {
+          "value": "{P.Color.Opacity.Default.50}",
+          "type": "color"
+        }
+      }
+    },
+    "Layout": {
+      "Grid-S": {
+        "1-Col": {
+          "value": "36px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.S}"
+        },
+        "2-Col": {
+          "value": "88px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.S}*2+{P.GutterWidth.S}"
+        },
+        "3-Col": {
+          "value": "140px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.S}*3+{P.GutterWidth.S}*2"
+        },
+        "4-Col": {
+          "value": "192px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.S}*4+{P.GutterWidth.S}*3"
+        },
+        "5-Col": {
+          "value": "244px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.S}*5+{P.GutterWidth.S}*4"
+        },
+        "6-Col": {
+          "value": "296px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.S}*6+{P.GutterWidth.S}*5"
+        }
+      },
+      "Grid-M": {
+        "1-Col": {
+          "value": "92px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.M}"
+        },
+        "2-Col": {
+          "value": "208px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.M}*2+{P.GutterWidth.M}"
+        },
+        "3-Col": {
+          "value": "324px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.M}*3+{P.GutterWidth.M}*2"
+        },
+        "4-Col": {
+          "value": "440px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.M}*4+{P.GutterWidth.M}*3"
+        },
+        "5-Col": {
+          "value": "556px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.M}*5+{P.GutterWidth.M}*4"
+        },
+        "6-Col": {
+          "value": "672px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.M}*6+{P.GutterWidth.M}*5"
+        }
+      },
+      "Grid-L": {
+        "1-Col": {
+          "value": "76px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}"
+        },
+        "2-Col": {
+          "value": "128px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*2+{P.GutterWidth.L}"
+        },
+        "3-Col": {
+          "value": "204px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*3+{P.GutterWidth.L}*2"
+        },
+        "4-Col": {
+          "value": "280px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*4+{P.GutterWidth.L}*3"
+        },
+        "5-Col": {
+          "value": "356px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*5+{P.GutterWidth.L}*4"
+        },
+        "6-Col": {
+          "value": "432px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*6+{P.GutterWidth.L}*5"
+        },
+        "7-Col": {
+          "value": "508px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*7+{P.GutterWidth.L}*6"
+        },
+        "8-Col": {
+          "value": "584px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*8+{P.GutterWidth.L}*7"
+        },
+        "9-Col": {
+          "value": "660px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*9+{P.GutterWidth.L}*8"
+        },
+        "10-Col": {
+          "value": "736px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*10+{P.GutterWidth.L}*9"
+        },
+        "11-Col": {
+          "value": "812px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*11+{P.GutterWidth.L}*10"
+        },
+        "12-Col": {
+          "value": "888px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.L}*12+{P.GutterWidth.L}*11"
+        }
+      },
+      "Grid-XL": {
+        "1-Col": {
+          "value": "76px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}"
+        },
+        "2-Col": {
+          "value": "184px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*2+{P.GutterWidth.XL}"
+        },
+        "3-Col": {
+          "value": "292px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*3+{P.GutterWidth.XL}*2"
+        },
+        "4-Col": {
+          "value": "400px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*4+{P.GutterWidth.XL}*3"
+        },
+        "5-Col": {
+          "value": "508px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*5+{P.GutterWidth.XL}*4"
+        },
+        "6-Col": {
+          "value": "616px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*6+{P.GutterWidth.XL}*5"
+        },
+        "7-Col": {
+          "value": "724px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*7+{P.GutterWidth.XL}*6"
+        },
+        "8-Col": {
+          "value": "832px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*8+{P.GutterWidth.XL}*7"
+        },
+        "9-Col": {
+          "value": "940px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*9+{P.GutterWidth.XL}*8"
+        },
+        "10-Col": {
+          "value": "1048px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*10+{P.GutterWidth.XL}*9"
+        },
+        "11-Col": {
+          "value": "1156px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*11+{P.GutterWidth.XL}*10"
+        },
+        "12-Col": {
+          "value": "1264px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XL}*12+{P.GutterWidth.XL}*11"
+        }
+      },
+      "Grid-XXL": {
+        "1-Col": {
+          "value": "104px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}"
+        },
+        "2-Col": {
+          "value": "248px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*2+{P.GutterWidth.XXL}*1"
+        },
+        "3-Col": {
+          "value": "392px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*3+ {P.GutterWidth.XXL}*2"
+        },
+        "4-Col": {
+          "value": "536px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*4+ {P.GutterWidth.XXL}*3"
+        },
+        "5-Col": {
+          "value": "680px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*5+ {P.GutterWidth.XXL}*4"
+        },
+        "6-Col": {
+          "value": "824px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*6+ {P.GutterWidth.XXL}*5"
+        },
+        "7-Col": {
+          "value": "968px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*7+ {P.GutterWidth.XXL}*6"
+        },
+        "8-Col": {
+          "value": "1112px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*8+ {P.GutterWidth.XXL}*7"
+        },
+        "9-Col": {
+          "value": "1256px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*9+ {P.GutterWidth.XXL}*8"
+        },
+        "10-Col": {
+          "value": "1400px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*10+ {P.GutterWidth.XXL}*9"
+        },
+        "11-Col": {
+          "value": "1544px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*11+ {P.GutterWidth.XXL}*10"
+        },
+        "12-Col": {
+          "value": "1688px",
+          "type": "sizing",
+          "description": "{P.ColumnWidth.XXL}*12+ {P.GutterWidth.XXL}*11"
+        }
+      }
+    },
+    "Size": {
+      "ContainerWidth": {
+        "S": {
+          "value": "{S.Layout.Grid-S.6-Col}",
+          "type": "sizing",
+          "description": "Max container width for Small breakpoint size"
+        },
+        "M": {
+          "value": "{S.Layout.Grid-M.6-Col}",
+          "type": "sizing",
+          "description": "Max container width for Medium breakpoint size"
+        },
+        "L": {
+          "value": "{S.Layout.Grid-L.12-Col}",
+          "type": "sizing",
+          "description": "Max container width for Large breakpoint size"
+        },
+        "XL": {
+          "value": "{S.Layout.Grid-XL.12-Col}",
+          "type": "sizing",
+          "description": "Max container width for X-Large breakpoint size"
+        },
+        "XXL": {
+          "value": "{S.Layout.Grid-XXL.12-Col}",
+          "type": "sizing",
+          "description": "Max container width for XX-Large breakpoint size"
+        },
+        "S-Full": {
+          "value": "{P.BreakpointSize.S}",
+          "type": "sizing",
+          "description": "Full width container width for Small breakpoint size"
+        },
+        "M-Full": {
+          "value": "{P.BreakpointSize.M}",
+          "type": "sizing",
+          "description": "Full Width container width for Medium breakpoint size"
+        },
+        "L-Full": {
+          "value": "{P.BreakpointSize.L}",
+          "type": "sizing",
+          "description": "Full width container width for Large breakpoint size"
+        },
+        "XL-Full": {
+          "value": "{P.BreakpointSize.XL}",
+          "type": "sizing",
+          "description": "Full width container width for X-Large breakpoint size"
+        },
+        "XXL-Full": {
+          "value": "{P.BreakpointSize.XXL}",
+          "type": "sizing",
+          "description": "Full width container width for XX-Large breakpoint size"
+        }
+      },
+      "Dimension": {
+        "0": {
+          "value": "{P.Size.0}",
+          "type": "sizing"
+        },
+        "1": {
+          "value": "{P.Size.1}",
+          "type": "sizing"
+        },
+        "2": {
+          "value": "{P.Size.2}",
+          "type": "sizing"
+        },
+        "3": {
+          "value": "{P.Size.3}",
+          "type": "sizing"
+        },
+        "4": {
+          "value": "{P.Size.4}",
+          "type": "sizing"
+        },
+        "5": {
+          "value": "{P.Size.5}",
+          "type": "sizing"
+        },
+        "6": {
+          "value": "{P.Size.6}",
+          "type": "sizing"
+        },
+        "7": {
+          "value": "{P.Size.7}",
+          "type": "sizing"
+        },
+        "8": {
+          "value": "{P.Size.8}",
+          "type": "sizing"
+        },
+        "9": {
+          "value": "{P.Size.9}",
+          "type": "sizing"
+        },
+        "10": {
+          "value": "{P.Size.10}",
+          "type": "sizing"
+        },
+        "11": {
+          "value": "{P.Size.11}",
+          "type": "sizing"
+        },
+        "12": {
+          "value": "{P.Size.12}",
+          "type": "sizing"
+        },
+        "13": {
+          "value": "{P.Size.13}",
+          "type": "sizing"
+        },
+        "14": {
+          "value": "{P.Size.14}",
+          "type": "sizing"
+        },
+        "15": {
+          "value": "{P.Size.15}",
+          "type": "sizing"
+        },
+        "16": {
+          "value": "{P.Size.16}",
+          "type": "sizing"
+        },
+        "17": {
+          "value": "{P.Size.17}",
+          "type": "sizing"
+        },
+        "18": {
+          "value": "{P.Size.18}",
+          "type": "sizing"
+        },
+        "19": {
+          "value": "{P.Size.19}",
+          "type": "sizing"
+        },
+        "20": {
+          "value": "{P.Size.20}",
+          "type": "sizing"
+        },
+        "21": {
+          "value": "{P.Size.21}",
+          "type": "sizing"
+        },
+        "22": {
+          "value": "{P.Size.22}",
+          "type": "sizing"
+        }
+      },
+      "iconSize": {
+        "XXS": {
+          "value": "12px",
+          "type": "sizing",
+          "description": "Icon size within gallery count"
+        },
+        "XS": {
+          "value": "16px",
+          "type": "sizing",
+          "description": "Icon size within button"
+        },
+        "S": {
+          "value": "20px",
+          "type": "sizing",
+          "description": "Icon size within button"
+        },
+        "M": {
+          "value": "24px",
+          "type": "sizing",
+          "description": "Icon size within button"
+        },
+        "L": {
+          "value": "32px",
+          "type": "sizing",
+          "description": "Icon size within button"
+        }
+      }
+    },
+    "Spacer": {
+      "0": {
+        "value": "{P.Size.0}",
+        "type": "spacing"
+      },
+      "1": {
+        "value": "{P.Size.1}",
+        "type": "spacing"
+      },
+      "2": {
+        "value": "{P.Size.2}",
+        "type": "spacing"
+      },
+      "3": {
+        "value": "{P.Size.3}",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "{P.Size.4}",
+        "type": "spacing"
+      },
+      "5": {
+        "value": "{P.Size.5}",
+        "type": "spacing"
+      },
+      "6": {
+        "value": "{P.Size.6}",
+        "type": "spacing"
+      },
+      "7": {
+        "value": "{P.Size.7}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{P.Size.8}",
+        "type": "spacing"
+      },
+      "9": {
+        "value": "{P.Size.9}",
+        "type": "spacing"
+      },
+      "10": {
+        "value": "{P.Size.10}",
+        "type": "spacing"
+      },
+      "11": {
+        "value": "{P.Size.11}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{P.Size.12}",
+        "type": "spacing"
+      },
+      "13": {
+        "value": "{P.Size.13}",
+        "type": "spacing"
+      },
+      "14": {
+        "value": "{P.Size.14}",
+        "type": "spacing"
+      },
+      "15": {
+        "value": "{P.Size.15}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{P.Size.16}",
+        "type": "spacing"
+      },
+      "17": {
+        "value": "{P.Size.17}",
+        "type": "spacing"
+      },
+      "18": {
+        "value": "{P.Size.18}",
+        "type": "spacing"
+      },
+      "19": {
+        "value": "{P.Size.19}",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "{P.Size.20}",
+        "type": "spacing"
+      },
+      "21": {
+        "value": "{P.Size.21}",
+        "type": "spacing"
+      },
+      "22": {
+        "value": "{P.Size.22}",
+        "type": "spacing"
+      },
+      "fixed-3px": {
+        "value": "3px",
+        "type": "spacing",
+        "description": "Fixed px spacer for baseline alignment"
+      }
+    },
+    "Spacer-negative": {
+      "1": {
+        "value": "-1px",
+        "type": "spacing",
+        "description": "-{P.Size.1}"
+      },
+      "2": {
+        "value": "-2px",
+        "type": "spacing",
+        "description": "-{P.Size.2}"
+      },
+      "3": {
+        "value": "-4px",
+        "type": "spacing",
+        "description": "-{P.Size.3}"
+      },
+      "4": {
+        "value": "-8px",
+        "type": "spacing",
+        "description": "-{P.Size.4}"
+      },
+      "5": {
+        "value": "-12px",
+        "type": "spacing",
+        "description": "-{P.Size.5}"
+      },
+      "6": {
+        "value": "-16px",
+        "type": "spacing",
+        "description": "-{P.Size.6}"
+      },
+      "7": {
+        "value": "-20px",
+        "type": "spacing",
+        "description": "-{P.Size.7}"
+      },
+      "8": {
+        "value": "-24px",
+        "type": "spacing",
+        "description": "-{P.Size.8}"
+      },
+      "9": {
+        "value": "-28px",
+        "type": "spacing",
+        "description": "-{P.Size.9}"
+      },
+      "10": {
+        "value": "-32px",
+        "type": "spacing",
+        "description": "-{P.Size.10}"
+      },
+      "11": {
+        "value": "-36px",
+        "type": "spacing",
+        "description": "-{P.Size.11}"
+      },
+      "12": {
+        "value": "-40px",
+        "type": "spacing",
+        "description": "-{P.Size.12}"
+      },
+      "13": {
+        "value": "-48px",
+        "type": "spacing",
+        "description": "-{P.Size.13}"
+      },
+      "14": {
+        "value": "-56px",
+        "type": "spacing",
+        "description": "-{P.Size.14}"
+      },
+      "15": {
+        "value": "-64px",
+        "type": "spacing",
+        "description": "-{P.Size.15}"
+      },
+      "16": {
+        "value": "-72px",
+        "type": "spacing",
+        "description": "-{P.Size.16}"
+      },
+      "17": {
+        "value": "-80px",
+        "type": "spacing",
+        "description": "-{P.Size.17}"
+      },
+      "18": {
+        "value": "-88px",
+        "type": "spacing",
+        "description": "-{P.Size.18}"
+      },
+      "19": {
+        "value": "-96px",
+        "type": "spacing",
+        "description": "-{P.Size.19}"
+      },
+      "20": {
+        "value": "-120px",
+        "type": "spacing",
+        "description": "-{P.Size.20}"
+      },
+      "21": {
+        "value": "-160px",
+        "type": "spacing",
+        "description": "-{P.Size.21}"
+      },
+      "22": {
+        "value": "-200px",
+        "type": "spacing",
+        "description": "-{P.Size.22}"
+      }
+    },
+    "Grid-Gutter": {
+      "S": {
+        "value": "{P.GutterWidth.S}",
+        "type": "spacing"
+      },
+      "M": {
+        "value": "{P.GutterWidth.M}",
+        "type": "spacing"
+      },
+      "L": {
+        "value": "{P.GutterWidth.L}",
+        "type": "spacing"
+      },
+      "XL": {
+        "value": "{P.GutterWidth.XL}",
+        "type": "spacing"
+      },
+      "XXL": {
+        "value": "{P.GutterWidth.XXL}",
+        "type": "spacing"
+      }
+    },
+    "BorderRadius": {
+      "None": {
+        "value": "{P.BorderRadius.0}",
+        "type": "borderRadius"
+      },
+      "Small": {
+        "value": "{P.BorderRadius.200}",
+        "type": "borderRadius"
+      },
+      "Medium": {
+        "value": "{P.BorderRadius.400}",
+        "type": "borderRadius"
+      },
+      "Large": {
+        "value": "{P.BorderRadius.800}",
+        "type": "borderRadius"
+      },
+      "Full": {
+        "value": "{P.BorderRadius.Full}",
+        "type": "borderRadius"
+      }
+    },
+    "BoxShadow": {
+      "None": {
+        "value": "{P.Default.Level-0}",
+        "type": "boxShadow"
+      },
+      "Default": {
+        "Small": {
+          "value": "{P.Default.Level-1}",
+          "type": "boxShadow"
+        },
+        "Medium": {
+          "value": "{P.Default.Level-2}",
+          "type": "boxShadow"
+        }
+      },
+      "Inverse": {
+        "Small": {
+          "value": "{P.Inverse.Level-1}",
+          "type": "boxShadow"
+        },
+        "Medium": {
+          "value": "{P.Inverse.Level-2}",
+          "type": "boxShadow"
+        }
+      }
+    },
+    "Opacity": {
+      "None": {
+        "value": "{P.Opacity.100}",
+        "type": "opacity"
+      },
+      "Subtle": {
+        "value": "{P.Opacity.80}",
+        "type": "opacity"
+      },
+      "Mid": {
+        "value": "{P.Opacity.40}",
+        "type": "opacity"
+      },
+      "Strong": {
+        "value": "{P.Opacity.30}",
+        "type": "opacity"
+      },
+      "Full": {
+        "value": "{P.Opacity.0}",
+        "type": "opacity"
+      }
+    },
+    "BorderWidth": {
+      "None": {
+        "value": "{P.BorderWidth.0}",
+        "type": "borderWidth"
+      },
+      "Small": {
+        "value": "{P.BorderWidth.100}",
+        "type": "borderWidth"
+      },
+      "Medium": {
+        "value": "{P.BorderWidth.200}",
+        "type": "borderWidth"
+      },
+      "Large": {
+        "value": "{P.BorderWidth.300}",
+        "type": "borderWidth"
+      }
+    },
+    "Grid-RowGap": {
+      "S": {
+        "value": "{P.GutterWidth.S}",
+        "type": "spacing"
+      },
+      "M": {
+        "value": "{P.GutterWidth.M}",
+        "type": "spacing"
+      },
+      "L": {
+        "value": "{P.GutterWidth.L}",
+        "type": "spacing"
+      },
+      "XL": {
+        "value": "{P.GutterWidth.XL}",
+        "type": "spacing"
+      },
+      "XXL": {
+        "value": "{P.GutterWidth.XXL}",
+        "type": "spacing"
+      }
+    },
+    "List-Gap": {
+      "None": {
+        "value": "{S.Spacer.0}",
+        "type": "spacing"
+      },
+      "X-Tight": {
+        "value": "{S.Spacer.3}",
+        "type": "spacing"
+      },
+      "Tight": {
+        "value": "{S.Spacer.4}",
+        "type": "spacing"
+      },
+      "Default": {
+        "value": "{S.Spacer.6}",
+        "type": "spacing"
+      },
+      "Expanded": {
+        "value": "{S.Spacer.9}",
+        "type": "spacing"
+      },
+      "X-Expanded": {
+        "value": "{S.Spacer.12}",
+        "type": "spacing"
+      }
+    },
+    "Carousel-Gap": {
+      "S": {
+        "value": "{P.GutterWidth.S}",
+        "type": "spacing"
+      },
+      "M": {
+        "value": "{P.GutterWidth.M}",
+        "type": "spacing"
+      },
+      "L": {
+        "value": "{P.GutterWidth.L}",
+        "type": "spacing"
+      },
+      "XL": {
+        "value": "{P.GutterWidth.XL}",
+        "type": "spacing"
+      },
+      "XXL": {
+        "value": "{P.GutterWidth.XXL}",
+        "type": "spacing"
+      }
+    }
+  },
+  "Auto-Spacing": {
+    "value": "AUTO",
+    "type": "number"
+  }
+}
