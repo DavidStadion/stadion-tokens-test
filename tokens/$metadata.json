@@ -2,6 +2,8 @@
   "tokenSetOrder": [
     "P",
     "S",
-    "CS"
+    "CS",
+    "C/Core",
+    "C/Content"
   ]
 }

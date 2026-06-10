@@ -1,0 +1,1801 @@
+{
+  "C": {
+    "Color": {
+      "Card": {
+        "HoverOverlay": {
+          "Label": {
+            "Enabled": {
+              "value": "{S.Color.Text.Inverse.Main}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Text.Inverse.Main}",
+              "type": "color"
+            }
+          },
+          "Icon": {
+            "Enabled": {
+              "value": "{S.Color.Fill.Inverse.Main}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Fill.Inverse.Main}",
+              "type": "color"
+            }
+          },
+          "Icon-Background": {
+            "Enabled": {
+              "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Background.HoldingColour.FullyTransparent}",
+              "type": "color"
+            }
+          },
+          "Icon-Border": {
+            "Enabled": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{P.Color.Primary.1}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{P.Color.Shades.Primary-1.600}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            }
+          }
+        },
+        "Default": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{S.Color.Text.Default.Main}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Text.Default.Main}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Text.Default.Main}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{S.Color.Text.Default.Subtle}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Text.Default.Subtle}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Text.Default.Subtle}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{S.Color.Interaction.Neutral.Default.Primary.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Interaction.Neutral.Default.Primary.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Interaction.Neutral.Default.Primary.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{S.Color.Fill.Default.Subtle}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Fill.Default.Subtle}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Fill.Default.Subtle}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{S.Color.Overlay.Primary}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Overlay.Primary}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Overlay.Primary}",
+              "type": "color"
+            }
+          }
+        },
+        "Inverse": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{S.Color.Text.Inverse.Main}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Text.Inverse.Main}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Text.Inverse.Main}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{S.Color.Text.Inverse.Subtle}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Text.Inverse.Subtle}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Text.Inverse.Subtle}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{S.Color.Interaction.Neutral.Inverse.Primary.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Interaction.Neutral.Inverse.Primary.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Interaction.Neutral.Inverse.Primary.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Border.HoldingColour.FullyTransparent}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{S.Color.Fill.Inverse.Subtle}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{S.Color.Fill.Inverse.Subtle}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{S.Color.Fill.Inverse.Subtle}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{P.Gradient.Default.Up}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{P.Gradient.Default.Up}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{P.Gradient.Default.Up}",
+              "type": "color"
+            }
+          }
+        },
+        "NewsArticle": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "NewsArticle-Featured": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "VideoArticle": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "VideoArticle-Featured": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "GalleryArticle": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "GalleryArticle-Featured": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "PodcastArticle": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "PodcastArticle-Featured": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "SearchResult-article": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "SearchResult-gallery": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "SearchResult-video": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "SearchResult-player": {
+          "ForenameText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SurnameText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "ShirtNumber": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "ThumbnailCard": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.SupportingText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.SupportingText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.SupportingText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.Overlay.Active}",
+              "type": "color"
+            }
+          },
+          "NumberText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Default.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Default.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Default.TitleText.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "Gateway": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay-Top": {
+            "Enabled": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            }
+          },
+          "Overlay-Bottom": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "Promo": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SubTitle": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay-Top": {
+            "Enabled": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            }
+          },
+          "Overlay-Bottom": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "Promo-rich": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SubTitle": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay-Top": {
+            "Enabled": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            }
+          },
+          "Overlay-Bottom": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        },
+        "Category": {
+          "TitleText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "SupportingText": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.TitleText.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.TitleText.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.TitleText.Active}",
+              "type": "color"
+            }
+          },
+          "Background": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Background.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Background.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Background.Active}",
+              "type": "color"
+            }
+          },
+          "Border": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Border.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Border.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Border.Active}",
+              "type": "color"
+            }
+          },
+          "Divider": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Divider.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Divider.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Divider.Active}",
+              "type": "color"
+            }
+          },
+          "Overlay-Top": {
+            "Enabled": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{P.Gradient.Default.Down}",
+              "type": "color"
+            }
+          },
+          "Overlay-Bottom": {
+            "Enabled": {
+              "value": "{C.Color.Card.Inverse.Overlay.Enabled}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{C.Color.Card.Inverse.Overlay.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{C.Color.Card.Inverse.Overlay.Active}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "BorderRadius": {
+      "Card": {
+        "Mini": {
+          "value": "{S.BorderRadius.Small}",
+          "type": "borderRadius"
+        },
+        "Small": {
+          "value": "{S.BorderRadius.Small}",
+          "type": "borderRadius"
+        },
+        "Default": {
+          "value": "{S.BorderRadius.Small}",
+          "type": "borderRadius"
+        },
+        "Large": {
+          "value": "{S.BorderRadius.Small}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "Opacity": {
+      "Card": {
+        "Enabled": {
+          "value": "{S.Opacity.None}",
+          "type": "opacity",
+          "description": "The baseline opacity level for interactive cards"
+        },
+        "Hover": {
+          "value": "{S.Opacity.None}",
+          "type": "opacity",
+          "description": "The opacity level for hover states on interactive cards"
+        },
+        "Active": {
+          "value": "{S.Opacity.None}",
+          "type": "opacity",
+          "description": "The opacity level for active (e.g. clicked) states on interactive cards"
+        }
+      }
+    },
+    "BoxShadow": {
+      "Card": {
+        "Enabled": {
+          "value": "{S.BoxShadow.None}",
+          "type": "boxShadow"
+        },
+        "Hover": {
+          "value": "{S.BoxShadow.None}",
+          "type": "boxShadow"
+        },
+        "Active": {
+          "value": "{S.BoxShadow.None}",
+          "type": "boxShadow"
+        }
+      }
+    }
+  }
+}

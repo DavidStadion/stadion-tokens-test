@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "ghost-2",
+    "name": "Ghost 2",
+    "selectedTokenSets": {
+      "P": "source",
+      "S": "source",
+      "CS": "enabled",
+      "C/Core": "enabled",
+      "C/Content": "enabled"
+    }
+  }
+]
