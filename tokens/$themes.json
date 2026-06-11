@@ -9,5 +9,16 @@
       "C/Core": "enabled",
       "C/Content": "enabled"
     }
+  },
+  {
+    "id": "pull-test-sentinel",
+    "name": "PULL TEST (delete me)",
+    "selectedTokenSets": {
+      "P": "source",
+      "S": "source",
+      "CS": "enabled",
+      "C/Core": "enabled",
+      "C/Content": "enabled"
+    }
   }
 ]
